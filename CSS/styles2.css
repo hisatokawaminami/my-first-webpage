@@ -1,0 +1,32 @@
+body {
+  background-color: orange;
+}
+
+
+h1{
+  font-weight: 600;
+  font-family: monospace;
+  background-color: grey;
+  text-align: center;
+}
+
+p {
+  font-family:cursive;
+  color:#000;
+}
+
+ul {
+  color: green;
+  font-family: fantasy;
+  font-size: 18px;
+}
+
+img {
+  height: 4em;
+  width: 6em;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}

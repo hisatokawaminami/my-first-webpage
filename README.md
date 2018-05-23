@@ -24,7 +24,7 @@ _No known bugs_
 _Please email me at hisatokawaminami@gmail.com if you find bugs._
 
 ## Technologies Used
-ß
+
 _HTML_
 _CSS_
 
